@@ -1,6 +1,6 @@
 # Opa! Meu nome é Henrique Stocco 👾
 
-<img src = ".github\banner.gif" width = "344px" height = "200" align = "right">
+<img src = ".github\banner.gif" width = "344px" height = "300" align = "right">
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/henrique-stocco-machado-a80255245">
@@ -12,7 +12,7 @@ Estudando para ser um Desenvolvedor BackEnd;
 
 💻 Cursando Análise e Desenvolvimento de Sistemas;
 
-📚 Estudando Python3 | Django | PostgresSQL | NodeJS;
+📚 Estudando Python3 | Django | PostgresSQL | JavaScript;
 
 🧰 Utilizando Git/GitHub e Visual Studio Code;
 
@@ -23,7 +23,7 @@ Estudando para ser um Desenvolvedor BackEnd;
   alt="Django" width="30" height="30"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
   title="PostgresSQL" alt="Postgres" width="30" height="30"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="Node"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"
   width="30" height="30"/>&nbsp;
 </div>
 
