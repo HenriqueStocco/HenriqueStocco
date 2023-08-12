@@ -1,6 +1,6 @@
 # Opa! Meu nome é Henrique Stocco 👾
 
-<img src = "banner.gif" width = "344px" height = "244" align = "right">
+<img src = "banner.gif" width = "344px" height = "240" align = "right">
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/henrique-stocco-machado-a80255245">
