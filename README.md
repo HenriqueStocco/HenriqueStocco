@@ -14,8 +14,6 @@ Estou estudando para ser um Desenvolvedor backend
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Python3 | Django | PostgresSQL | NodeJS
 
-##
-
 <div id="icons">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python3" alt="Python" width="30" height="30"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="30" height="30"/>&nbsp;
@@ -29,6 +27,6 @@ Estou estudando para ser um Desenvolvedor backend
 ___
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueStocco&show_icons=true&theme=radical&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&show_icons=true&theme=radical&count_private=true" />
+<img height = "280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueStocco&show_icons=true&theme=radical&count_private=true"/>
+<img height = "280em" src="https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&show_icons=true&theme=radical&count_private=true" />
 </div>
