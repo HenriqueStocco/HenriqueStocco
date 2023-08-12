@@ -27,11 +27,9 @@ Estudando para ser um Desenvolvedor BackEnd;
   width="30" height="30"/>&nbsp;
 </div>
 
-___
+##
 
 <div align = "left">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueStocco&show_icons=true&
-  theme=tokyonight&count_private=true"/>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&show_icons=true&
-  theme=tokyonight&count_private=true" />
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueStocco&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
