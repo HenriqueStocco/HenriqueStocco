@@ -17,19 +17,30 @@ Estudando para ser um Desenvolvedor BackEnd;
 🧰 Utilizando Git/GitHub e Visual Studio Code;
 
 <div>
+<a href = "https://github.com/HenriqueStocco">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python3"
   alt="Python" width="30" height="30"/>&nbsp;
+   </a>
+<a href = "https://github.com/HenriqueStocco">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django"
   alt="Django" width="30" height="30"/>&nbsp;
+   </a>
+<a href = "https://github.com/HenriqueStocco">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
   title="PostgresSQL" alt="Postgres" width="30" height="30"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"
-  width="30" height="30"/>&nbsp;
+   </a>
+<a href = "https://github.com/HenriqueStocco">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"width="30" height="30"/>&nbsp;
+  </a>
 </div>
 
 ##
 
 <div align = "left">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueStocco&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
+<a href = "https://github.com/HenriqueStocco">
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueStocco&show_icons=true&theme=tokyonight&count_private=true"/>
+</a>
+<a href = "https://github.com/HenriqueStocco">
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
 </div>
