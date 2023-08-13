@@ -37,10 +37,10 @@ Estudando para ser um Desenvolvedor BackEnd;
 ##
 
 <div align = "left">
-<a href = "https://github.com/HenriqueStocco">
+<a href = "">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueStocco&show_icons=true&theme=tokyonight&count_private=true"/>
 </a>
-<a href = "https://github.com/HenriqueStocco">
+<a href = "">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 </div>
