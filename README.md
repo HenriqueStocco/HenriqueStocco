@@ -1,4 +1,4 @@
-# Opa! Meu nome é Henrique Stocco 👾
+# Olá! Meu nome é Henrique Stocco 👾
 
 <img src = ".github\banner.gif" width = "344px" height = "240" align = "right">
 
@@ -12,26 +12,25 @@ Estudando para ser um Desenvolvedor BackEnd;
 
 💻 Cursando Análise e Desenvolvimento de Sistemas;
 
-📚 Estudando Python3 | Django | PostgresSQL | JavaScript;
+📚 Estudando Python3 | MySQL | Docker;
 
-🧰 Utilizando Git/GitHub e Visual Studio Code;
+🧰 Utilizando Git/GitHub, Visual Studio Code e DBeaver;
 
 <div>
 <a href = "https://github.com/HenriqueStocco">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python3"
   alt="Python" width="30" height="30"/>&nbsp;
    </a>
+  
 <a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django"
-  alt="Django" width="30" height="30"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+  title="MySQL" alt="MySQL" width="30" height="50"/>&nbsp;
    </a>
-<a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-  title="PostgresSQL" alt="Postgres" width="30" height="30"/>&nbsp;
+
+   <a href = "https://github.com/HenriqueStocco">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+  alt="Docker" width="30" height="30"/>&nbsp;
    </a>
-<a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"width="30" height="30"/>&nbsp;
-  </a>
 </div>
 
 ##
