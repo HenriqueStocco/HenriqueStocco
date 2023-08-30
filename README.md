@@ -18,18 +18,18 @@ Estudando para ser um Desenvolvedor BackEnd;
 
 <div>
 <a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python3"
-  alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+  alt="Python" width="50" height="50"/>&nbsp;
    </a>
   
 <a href = "https://github.com/HenriqueStocco">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-  title="MySQL" alt="MySQL" width="30" height="50"/>&nbsp;
+  title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
    </a>
 
    <a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-  alt="Docker" width="30" height="30"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+  alt="Docker" width="50" height="50"/>&nbsp;
    </a>
 </div>
 
