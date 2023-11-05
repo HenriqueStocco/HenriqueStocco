@@ -1,4 +1,4 @@
-# Olá! Meu nome é Henrique Stocco 👾
+# Hi! My name is Henrique
 
 
 <div id="badges">
@@ -7,28 +7,28 @@
   </a>
 </div>
 
-Estudando para ser um Desenvolvedor BackEnd;
+👾 Studying to be a backend developer
 
-💻 Cursando Análise e Desenvolvimento de Sistemas;
+💻 Studying System Analysis and Development
 
-📚 Estudando Python3 | MySQL | Docker;
+📚  Python3 | Django | Postgres | Docker
 
-🧰 Utilizando Git/GitHub, Visual Studio Code e DBeaver;
+🧰  Using Git | GitHub | VSCode | Linux | tmux
 
 <div>
 <a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
   alt="Python" width="50" height="50"/>&nbsp;
    </a>
   
 <a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-  title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+  title="Django" alt="Django" width="50" height="50"/>&nbsp;
    </a>
-
+  
    <a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-  alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"
+  alt="Postgres" width="50" height="50"/>&nbsp;
    </a>
 </div>
 
