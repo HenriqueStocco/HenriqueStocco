@@ -1,28 +1,10 @@
-# Hi! My name is Henrique
+# Hi 👋, I am Henrique
+
+JS developer, Linux lover, Python and Automation fan.
+
+I'm learning at the moment JavaScript/Node.js, rest API's, bash script and data structures.
 
 
-👾 Studying to be a backend developer
+⚡ GitHub status
 
-💻 Studying System Analysis and Development
-
-📚  Python3 | Django | Postgres | Docker
-
-🧰  Using Git | GitHub | VSCode | Linux | tmux
-
-<div>
-<a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  alt="Python" width="45" height="45"/>&nbsp;
-   </a>
-  
-<a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
-  title="Django" alt="Django" width="45" height="45"/>&nbsp;
-   </a>
-  
-   <a href = "https://github.com/HenriqueStocco">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"
-  alt="Postgres" width="45" height="45"/>&nbsp;
-   </a>
-</div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&theme=dark)](https://github.com/HenriqueStocco/HenriqueStocco/edit/main/README.md)
