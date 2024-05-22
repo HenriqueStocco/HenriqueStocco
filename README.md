@@ -6,4 +6,4 @@ At the moment I'm learning Node.js for rest API's and delving into the Fastify t
 
 ⚡ GitHub status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&theme=dark)](https://github.com/HenriqueStocco/HenriqueStocco/edit/main/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueStocco&show_icons=true&theme=transparent)](https://github.com/HenriqueStocco/HenriqueStocco/edit/main/README.md)
