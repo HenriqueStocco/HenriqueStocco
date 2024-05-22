@@ -1,9 +1,8 @@
 # Hi 👋, I am Henrique
 
-JS developer, Linux lover, Python and Automation fan.
+JavaScript developer, Ubuntu lover, Python and Automation fan.
 
-I'm learning at the moment JavaScript/Node.js, rest API's, bash script and data structures.
-
+At the moment I'm learning Node.js for rest API's and delving into the Fastify tools for servers and Prisma ORM for databases.
 
 ⚡ GitHub status
 
