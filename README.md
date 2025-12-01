@@ -1,8 +1,11 @@
 # Opa, Eu sou o Henrique 👋
 
-Eu sou desenvolvedor Javascript Júnior do Brasil, com um pouco menos de 2 anos de experiência em desenvolvimento Full-Stack/Mobile 
+Eu sou desenvolvedor Javascript Júnior do Brasil, com um pouco menos de 2 anos de experiência em desenvolvimento Full-Stack/Mobile.
+
 Sou apaixonado por desafios e por sempre buscar saber como as coisas funcionam pode debaixo dos panos, como baixo nível e engenharia reversa.
+
 Apesar de trabalhar como Full-Stack, sou mais time Backend.
+
 Últimamente tenho estudado Golang, com o objetivo de tornar ela como ferramenta padrão para Backend e diminuir o tamanho das minha imagens Dockers, fora lidar com coisas mais próximas ao baixo nível.
 
 ## Algumas ferramentas que utilizo no meu dia-a-dia
