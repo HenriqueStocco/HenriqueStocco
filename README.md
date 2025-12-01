@@ -7,13 +7,13 @@ Linux and Docker are my favorite things.
 
 ## Skills
 
-🥲 __Frontend__ - JavaScript/TypeScript, React, Tailwindcss, HTML, CSS
+🥲 __Frontend__ - TypeScript, React, Tailwindcss, HTML, CSS, @tanstack/router, @tanstack/react-query
 
-❤️ __Backend__ - Fastify, Hono API, Node.js, Bun, Drizzle-ORM/Kit, Prisma, Python3, Django
+❤️ __Backend__ - Fastify, Hono, Node.js, Drizzle-ORM/Kit, TypeScript
 
-📱 __Mobile__ - React Native | EAS | Expo | Nativewind | Node.js | Bun
+📱 __Mobile__ - React Native | EAS | Expo
 
-💾 __Databases__ - PostgreSQL, SQLite
+💾 __Databases__ - PostgreSQL, SQLite, MySQL
 
 ⛅ __Cloudflare__ - Workers, R2, D1, Pages
   
