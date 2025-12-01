@@ -1,11 +1,11 @@
-# Hello, I'm Henrique👋
+# Opa, Eu sou o Henrique 👋
 
-I'm a beginner JavaScript software developer from Brazil, with a little less than 1 year of experience.
-I'm passionate about low-level programming and understanding how things work under the hood.
-I love the backend and its complexity.
-Linux and Docker are my favorite things.
+Eu sou desenvolvedor Javascript Júnior do Brasil, com um pouco menos de 2 anos de experiência em desenvolvimento Full-Stack/Mobile 
+Sou apaixonado por desafios e por sempre buscar saber como as coisas funcionam pode debaixo dos panos, como baixo nível e engenharia reversa.
+Apesar de trabalhar como Full-Stack, sou mais time Backend.
+Últimamente tenho estudado Golang, com o objetivo de tornar ela como ferramenta padrão para Backend e diminuir o tamanho das minha imagens Dockers, fora lidar com coisas mais próximas ao baixo nível.
 
-## Skills
+## Algumas ferramentas que utilizo no meu dia-a-dia
 
 🥲 __Frontend__ - TypeScript, React, Tailwindcss, HTML, CSS, @tanstack/router, @tanstack/react-query
 
@@ -20,4 +20,3 @@ Linux and Docker are my favorite things.
 🙂 __AWS__ - EC2, RDS, S3
   
 ⚙️ __Tools__ - Dockerfile, Docker Compose, NGINX, Git
-
