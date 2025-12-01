@@ -1,4 +1,4 @@
-# Opa, Eu sou o Henrique 👋
+# Olá, eu sou o Henrique 👋
 
 Eu sou desenvolvedor Javascript Júnior do Brasil, com um pouco menos de 2 anos de experiência em desenvolvimento Full-Stack/Mobile.
 
